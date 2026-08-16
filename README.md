@@ -10,13 +10,13 @@ If you want to learn how I do it, **[Instagram](https://yourlink.com)**!
 
 Here's a list of my tech stack and skills:
 
-![React](https://img.shields.io/badge/-React-blue?style=for-the-badge)
-![Laravel](https://img.shields.io/badge/-laravel-red?style=for-the-badge)
-![SpringBoot](https://img.shields.io/badge/-spring_boot-green?style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-postgresql-darkblue?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/-Mongodb-brightgreen?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Fun Facts:**
 
