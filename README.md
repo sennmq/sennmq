@@ -1,28 +1,22 @@
 # Hey there! 🫡
 
-I'm **Test**, a **PPLG Student** based in **Indonesia** 🇮🇩.
+I'm **[Nama Kamu]**, a **[Peran/Profesi]** based in **[Lokasi/Negara]**.
 
-I enjoy **building things, learning new technologies, and turning ideas into projects**.
+I **[deskripsi singkat gaya kerja/passion, contoh: design and build whatever I can imagine]**.
 
-### Tech Stack
+If an idea pops into my head, chances are I'll build it and ship it.
 
-**React · TypeScript · JavaScript · Tailwind CSS · PHP · Go · Python**
+My main tech stack is **[Teknologi Utama, contoh: React, TypeScript, Tailwind]**. My favorite tools are **[Tools Favorit, contoh: Figma, VS Code]**.
 
-**MySQL · PostgreSQL · SQLite**
+I've got a bunch of pinned projects, but my favorite is the **[Link/Nama Proyek Utama](https://github.com/username/project)**.
 
-### Tools
+I've built over **[Jumlah Repo Public]** public repos, but privately.. it's probably more than **[Jumlah Repo Private]** at this point.
 
-**VS Code · Git · GitHub**
+If you want to learn how I do it, **[Link Portofolio/Sosmed](https://yourlink.com)**!
 
-### Projects
+**Fun Facts:**
 
-* [coding_tests](https://github.com/sennmq/coding_tests) — Programming problems & solutions
-* More projects coming soon 🚀
-
-### Connect
-
-[GitHub](https://github.com/sennmq)
-
----
-
-*Build. Learn. Ship.* 🚀
+*   I have **[Fakta 1, contoh: two cats]**
+*   I don't like **[Fakta 2, contoh: coffee or tea]**
+*   **[Anime/Buku/Film Favorit]** is my favorite
+*   **Hobbies:** **[Hobi 1, Hobi 2, Hobi 3]**
