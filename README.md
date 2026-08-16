@@ -1,8 +1,8 @@
 ## ✨ About Me
-- 🎓 **software Development student @ Airlangga IT Vocational School**
+- 🎓 **Software Development student @ Airlangga IT Vocational School**
 ---
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,postgresql,swift,java,python,figma,git,c,kotlin" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,postgresql,java,python,git,c" />
 </p>
