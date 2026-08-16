@@ -1,4 +1,4 @@
-# Hey there! 🫡
+# Hey there! 👋
 
 I'm **Rifky** a student at **Airlangga IT Vocational School**, based in **Samarinda**. I specialize in building web applications that prioritize performance, accessible design, and clean architecture.
 
@@ -11,11 +11,11 @@ If you want to learn how I do it, **[Instagram](https://yourlink.com)**!
 Here's a list of my tech stack and skills:
 
 ![React](https://img.shields.io/badge/-React-blue?style=for-the-badge)
-![React Native](https://img.shields.io/badge/-laravel-red?style=for-the-badge)
-![Express](https://img.shields.io/badge/-spring_boot-green?style=for-the-badge)
+![Laravel](https://img.shields.io/badge/-laravel-red?style=for-the-badge)
+![SpringBoot](https://img.shields.io/badge/-spring_boot-green?style=for-the-badge)
 
 ![MySQL](https://img.shields.io/badge/-mysql-white?style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-postgresql-lightblue?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-postgresql-darkblue?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-Mongodb-brightgreen?style=for-the-badge)
 
 **Fun Facts:**
