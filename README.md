@@ -10,8 +10,8 @@ If you want to learn how I do it, **[Instagram](https://yourlink.com)**!
 
 Here's a list of my tech stack and skills:
 
-![React](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge)
 ![Laravel](https://img.shields.io/badge/-laravel-FF2D20?style=for-the-badge)
+![React](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge)
 ![SpringBoot](https://img.shields.io/badge/-spring_boot-6DB33F?style=for-the-badge)
 
 ![MySQL](https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge)
